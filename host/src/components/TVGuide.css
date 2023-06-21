@@ -1,0 +1,27 @@
+h1 {
+    font-size: 2rem;
+    margin: 0 0 1rem 0;
+}
+
+.row {
+    display: flex;
+    background-color: #102c3d;
+    color: #fff;
+    border: 1px solid #2a6175;
+}
+
+.channel {
+    padding: 1rem;
+    border-right: 1px solid #2a6175;
+    width: 200px;
+}
+
+.programme {
+    padding: 1rem;
+}
+
+.programme__time {
+    font-size: 0.9rem;
+    text-transform: uppercase;
+    color: #aac0c8;
+}

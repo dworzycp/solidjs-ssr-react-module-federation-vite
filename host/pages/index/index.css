@@ -1,0 +1,21 @@
+.solidjs {
+    background-color: rgb(193, 237, 255);
+    border: 1px dashed rgb(99, 193, 230);
+    border-radius: 5px;
+    padding: 1rem;
+}
+
+.react {
+    background-color: rgb(255, 223, 193);
+    border: 1px dashed rgb(230, 99, 99);
+    border-radius: 5px;
+    padding: 1rem;
+    margin-bottom: 1rem;
+}
+
+code {
+    display: block;
+    margin: 0;
+    padding: 0;
+    margin-bottom: 1rem;
+}
